@@ -1,7 +1,3 @@
 # Diabetes dataset
-A short notebook where different ML models are tested for classifying food health quality.
+In this notebook, I use different ML models to predict diabetes using the Pima Diabetes Dataset.
 
-# Objectives
-
-* Explain several popular optimizers
-* Evaluate their performance in a real-world classification scenario
